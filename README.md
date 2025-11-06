@@ -1,6 +1,6 @@
 # Hi 👋, I'm Diego Sánchez
 
-### a second-year student studying CS (AI Track) & Math @Stanford
+### studying CS (AI Track) & Math @Stanford
 
 ---
 
